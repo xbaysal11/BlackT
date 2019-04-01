@@ -11,15 +11,9 @@
       "19": "logo.png",
       "38": "logo.png"
     },
-    "default_title": "reDDiv"
+    "default_title": "BlackT"
   },
-
-  "content_scripts": [
-    {
-      "matches": ["https://local-ntp/local-ntp.html"],
-      "css": ["style.css"],
-      "html": ["index.html"],
-      "run_at": "document_start"
-    }
-  ]
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
 }
