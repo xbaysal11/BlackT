@@ -14,14 +14,17 @@
 ## 1. Download files
 [Click to Download](https://github.com/xbaysal11/BlackT/archive/master.zip) 
 
-## 2. Connect with Google Chrome
+## 2. Download files
+Unzip it.
+
+## 3. Connect with Google Chrome
 Steps:
    - 1.Go to Google Chrome Menu.
    - 2.Go to More tools.
    - 3.Go to Extensions.
    - 4.Turn ON "Develpor mode".
    - 5.Load unpacked
-   - 6.Choose downloaded package
+   - 6.Choose unzipped package
    - 7.Turn ON "BlackT" extension
     
 
