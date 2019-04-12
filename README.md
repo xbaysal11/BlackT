@@ -14,8 +14,7 @@
 ## 1. Download files
 [Click to Download](https://github.com/xbaysal11/BlackT/archive/master.zip) 
 
-## 2. Download files
-Unzip it.
+## 2. Unzip files
 
 ## 3. Connect with Google Chrome
 Steps:
