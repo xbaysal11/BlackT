@@ -8,6 +8,7 @@
      Google Chrome Extension to get black blank new tab 
 </p>
 
+![logo](https://i.postimg.cc/cL1CS2JP/thd.png)
 
 # Installation
 
